@@ -7,8 +7,24 @@
       "RelativeMoniker": "D:0:0:{E53F861B-0737-4556-9EE6-0721CC6ABFEE}|Esercitazione_27_09_2024\\Esercitazione_27_09_2024.csproj|solutionrelative:esercitazione_27_09_2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\utente\\source\\repos\\Esercitazione_27_09_2024\\Esercitazione_27_09_2024\\Models\\Esercizio27092024Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Esercitazione_27_09_2024\\Models\\Esercizio27092024Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E53F861B-0737-4556-9EE6-0721CC6ABFEE}|Esercitazione_27_09_2024\\Esercitazione_27_09_2024.csproj|c:\\users\\utente\\source\\repos\\esercitazione_27_09_2024\\esercitazione_27_09_2024\\models\\gestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53F861B-0737-4556-9EE6-0721CC6ABFEE}|Esercitazione_27_09_2024\\Esercitazione_27_09_2024.csproj|solutionrelative:esercitazione_27_09_2024\\models\\gestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53F861B-0737-4556-9EE6-0721CC6ABFEE}|Esercitazione_27_09_2024\\Esercitazione_27_09_2024.csproj|c:\\users\\utente\\source\\repos\\esercitazione_27_09_2024\\esercitazione_27_09_2024\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53F861B-0737-4556-9EE6-0721CC6ABFEE}|Esercitazione_27_09_2024\\Esercitazione_27_09_2024.csproj|solutionrelative:esercitazione_27_09_2024\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53F861B-0737-4556-9EE6-0721CC6ABFEE}|Esercitazione_27_09_2024\\Esercitazione_27_09_2024.csproj|c:\\users\\utente\\source\\repos\\esercitazione_27_09_2024\\esercitazione_27_09_2024\\models\\libri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53F861B-0737-4556-9EE6-0721CC6ABFEE}|Esercitazione_27_09_2024\\Esercitazione_27_09_2024.csproj|solutionrelative:esercitazione_27_09_2024\\models\\libri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53F861B-0737-4556-9EE6-0721CC6ABFEE}|Esercitazione_27_09_2024\\Esercitazione_27_09_2024.csproj|c:\\users\\utente\\source\\repos\\esercitazione_27_09_2024\\esercitazione_27_09_2024\\models\\esercizio27092024context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53F861B-0737-4556-9EE6-0721CC6ABFEE}|Esercitazione_27_09_2024\\Esercitazione_27_09_2024.csproj|solutionrelative:esercitazione_27_09_2024\\models\\esercizio27092024context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53F861B-0737-4556-9EE6-0721CC6ABFEE}|Esercitazione_27_09_2024\\Esercitazione_27_09_2024.csproj|c:\\users\\utente\\source\\repos\\esercitazione_27_09_2024\\esercitazione_27_09_2024\\models\\prestito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53F861B-0737-4556-9EE6-0721CC6ABFEE}|Esercitazione_27_09_2024\\Esercitazione_27_09_2024.csproj|solutionrelative:esercitazione_27_09_2024\\models\\prestito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E53F861B-0737-4556-9EE6-0721CC6ABFEE}|Esercitazione_27_09_2024\\Esercitazione_27_09_2024.csproj|c:\\users\\utente\\source\\repos\\esercitazione_27_09_2024\\esercitazione_27_09_2024\\sql.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
@@ -22,24 +38,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utente.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Esercitazione_27_09_2024\\Esercitazione_27_09_2024\\Models\\Utente.cs",
+              "RelativeDocumentMoniker": "Esercitazione_27_09_2024\\Models\\Utente.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Esercitazione_27_09_2024\\Esercitazione_27_09_2024\\Models\\Utente.cs",
+              "RelativeToolTip": "Esercitazione_27_09_2024\\Models\\Utente.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:30:04.343Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Gestore.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Esercitazione_27_09_2024\\Esercitazione_27_09_2024\\Models\\Gestore.cs",
+              "RelativeDocumentMoniker": "Esercitazione_27_09_2024\\Models\\Gestore.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Esercitazione_27_09_2024\\Esercitazione_27_09_2024\\Models\\Gestore.cs",
+              "RelativeToolTip": "Esercitazione_27_09_2024\\Models\\Gestore.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAgwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:24:31.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Prestito.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Esercitazione_27_09_2024\\Esercitazione_27_09_2024\\Models\\Prestito.cs",
+              "RelativeDocumentMoniker": "Esercitazione_27_09_2024\\Models\\Prestito.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Esercitazione_27_09_2024\\Esercitazione_27_09_2024\\Models\\Prestito.cs",
+              "RelativeToolTip": "Esercitazione_27_09_2024\\Models\\Prestito.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:43:12.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Libri.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Esercitazione_27_09_2024\\Esercitazione_27_09_2024\\Models\\Libri.cs",
+              "RelativeDocumentMoniker": "Esercitazione_27_09_2024\\Models\\Libri.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Esercitazione_27_09_2024\\Esercitazione_27_09_2024\\Models\\Libri.cs",
+              "RelativeToolTip": "Esercitazione_27_09_2024\\Models\\Libri.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:29:55.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Esercizio27092024Context.cs",
               "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Esercitazione_27_09_2024\\Esercitazione_27_09_2024\\Models\\Esercizio27092024Context.cs",
               "RelativeDocumentMoniker": "Esercitazione_27_09_2024\\Models\\Esercizio27092024Context.cs",
               "ToolTip": "C:\\Users\\utente\\source\\repos\\Esercitazione_27_09_2024\\Esercitazione_27_09_2024\\Models\\Esercizio27092024Context.cs",
               "RelativeToolTip": "Esercitazione_27_09_2024\\Models\\Esercizio27092024Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T08:40:31.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "sql.md",
               "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Esercitazione_27_09_2024\\Esercitazione_27_09_2024\\sql.md",
               "RelativeDocumentMoniker": "Esercitazione_27_09_2024\\sql.md",
@@ -58,7 +127,7 @@
               "RelativeDocumentMoniker": "Esercitazione_27_09_2024\\Program.cs",
               "ToolTip": "C:\\Users\\utente\\source\\repos\\Esercitazione_27_09_2024\\Esercitazione_27_09_2024\\Program.cs",
               "RelativeToolTip": "Esercitazione_27_09_2024\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T08:33:27.692Z",
               "EditorCaption": ""

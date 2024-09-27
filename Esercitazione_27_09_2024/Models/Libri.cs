@@ -14,4 +14,10 @@ public partial class Libri
     public bool StatoDisp { get; set; }
 
     public virtual ICollection<Prestito> Prestitos { get; set; } = new List<Prestito>();
+
+
+    public override string ToString() //_ to string permette di stampare 
+    {
+        return $"[Libro]{LibroId}{Titolo}{AnnoPubb}";
+    }
 }

@@ -18,4 +18,10 @@ public partial class Prestito
     public virtual Libri LibroRifNavigation { get; set; } = null!;
 
     public virtual Utente UtenteRifNavigation { get; set; } = null!;
+
+
+    public override string ToString() //_ to string permette di stampare 
+    {
+        return $"[Prestito]{PrestitoId}{UtenteRif}{LibroRif} {Dataprestito}{Dataritorno}{UtenteRifNavigation.ToString()}{LibroRifNavigation.ToString()}";
+    }
 }

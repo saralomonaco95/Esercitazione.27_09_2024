@@ -14,4 +14,10 @@ public partial class Utente
     public string Email { get; set; } = null!;
 
     public virtual ICollection<Prestito> Prestitos { get; set; } = new List<Prestito>();
+
+    public override string ToString() //_ to string permette di stampare 
+    {
+        return $"[Utente]{UtenteId}{Nome}{Cognome}{Email}";
+    }
+
 }
